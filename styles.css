@@ -412,3 +412,6 @@ form .button input {
   padding: 1em;
 }
 
+.highlight {
+    background-color: yellow; /* or whatever color you prefer */
+}
